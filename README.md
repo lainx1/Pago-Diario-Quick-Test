@@ -16,11 +16,13 @@ En el programa existe la clase Transaction.java.
 
 Objectivo: Crear una reporte por meses con los siguientes campos requeridos.
 
-Ingresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "in").
-Egresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "out").
+* Ingresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "in").
 
-Ingresos pagados (La suma de los reportes con status "done" del mes y operation "in").
-Egresos pagados (La suma de los reportes con status "done" del mes y operation "out").
+* Egresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "out").
+
+* Ingresos pagados (La suma de los reportes con status "done" del mes y operation "in").
+
+* Egresos pagados (La suma de los reportes con status "done" del mes y operation "out").
 
 En el programa existe la clase TransactionRepository.java que tiene el metodo getTransactions(). Este metodo te devuelve todas las transacciones. Que necesitas para trabajar.
 
