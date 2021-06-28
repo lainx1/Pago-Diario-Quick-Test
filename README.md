@@ -5,7 +5,7 @@ En el programa existe la clase Transaction.java.
 
   La clase transaction tiene los siguientes campos:
 
-  private double amount; (Monto de la transaccion)
+	private double amount; (Monto de la transaccion)
 
 	@Json(name = "creation_date")
 	private Date creationDate; (Fecha de creacion)
