@@ -26,6 +26,8 @@ Objectivo: Crear una reporte de todos los meses del año con los siguientes camp
 
 En el programa existe la clase TransactionRepository.java que tiene el metodo getTransactions(). Este metodo te devuelve todas las transacciones. Que necesitas para trabajar.
 
+Subir la solucion a una Rama con tu nombre.
+
 Output expected:
 
     Enero:
