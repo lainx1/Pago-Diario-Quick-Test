@@ -14,7 +14,7 @@ En el programa existe la clase Transaction.java.
 	private String status; (puede ser "done", "pending" o "rejected")
 
 
-Objectivo: Crear una reporte por meses con los siguientes campos sugeridos.
+Objectivo: Crear una reporte por meses con los siguientes campos requeridos.
 
 Ingresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "in").
 Egresos pagados y rechazados (La suma de los reportes con status "done" y "rejected" del mes y operation "out").
